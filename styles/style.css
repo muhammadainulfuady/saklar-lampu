@@ -1,0 +1,33 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  font-size: 1.5rem;
+  background-color: #284ecd;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+}
+
+.ruang-keluarga {
+  display: flex;
+  justify-content: center;
+}
+
+.ruang-tamu {
+  display: flex;
+  justify-content: center;
+}
+
+.ruang-tidur {
+  display: flex;
+  justify-content: center;
+}
+
+.ruang-makan {
+  display: flex;
+  justify-content: center;
+}
